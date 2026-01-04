@@ -1,4 +1,4 @@
-fraud+_detection_work
+Transaction_fraud+_detection_system
  Deployment
 The project is prepared for deployment using Streamlit Community Cloud.
 
